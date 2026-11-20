@@ -49,3 +49,7 @@ View a lightning demonstration around a model of the Golden Hall on Wudang Mount
 ## Related research
 
 The competition build later served as the starting point for a separate graduate research collaboration on state-grounded question answering.
+
+In this demo, the in-scene AI assistant introduces the *sheng*, a traditional Chinese wind instrument, based on the exhibit the learner is viewing. The learner then asks how the instrument produces sound.
+
+![The in-scene AI assistant answers a question and a follow-up about the sheng](state-grounded-qa-demo.gif)
