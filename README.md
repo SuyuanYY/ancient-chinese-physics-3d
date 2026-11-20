@@ -16,11 +16,23 @@ Walk through the garden, inspect a waterwheel exhibit, and cross the footbridge.
 
 ![Third-person garden walkthrough with a close-up of the waterwheel exhibit](waterwheel-and-garden.gif)
 
+### Bianzhong (Chinese Chime Bells)
+
+Approach the chime-bell rack and strike individual bells in the Sound Gallery. This exhibit starts at 1:13 in the full video.
+
+![Interacting with a rack of Chinese chime bells](bianzhong-chime-bells.gif)
+
 ### Courtyard Sundial
 
 Approach the stone sundial and switch to a close-up view of its dial and exhibit notes.
 
 ![Switching from the courtyard walkway to a close-up of the sundial](courtyard-sundial.gif)
+
+### Gunpowder Exhibit
+
+View a 3D model of a historical cannon and its in-game ignition effect.
+
+![An ignition effect beside a historical cannon model in the exhibition hall](gunpowder-exhibit.gif)
 
 ### Sinan Compass
 
