@@ -2,7 +2,7 @@
 
 An interactive 3D learning environment for exploring ancient Chinese physics through historical instruments and hands-on exhibits in Unreal Engine.
 
-**National Second Prize** · Chinese Collegiate Computing Design Competition · August 2025
+**2nd Place (National Second Prize)** · Digital Media Games and Interaction Track · Chinese Collegiate Computing Design Competition · August 2025
 
 I independently designed and built the project as the team's sole technical developer. I created the 3D assets and levels, programmed exhibit interactions, produced the visual and audio elements, and packaged the application for the competition.
 
