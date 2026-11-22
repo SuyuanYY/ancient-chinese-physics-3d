@@ -104,7 +104,6 @@ The in-game map helps visitors find the four exhibition halls and jump to their 
   <img src="assets/garden-design/interactive-map.webp" alt="Interactive map showing the four exhibition halls">
 </picture>
 
-[Source presentation and project screenshots](https://github.com/xikun1/Ancient-Physics-Interactive-Learning#chinese-garden-design-selected-examples--中式园林设计思想部分).
 
 ## Related research
 
