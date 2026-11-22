@@ -64,7 +64,7 @@ View a lightning demonstration around a model of the Golden Hall on Wudang Mount
   <img src="golden-hall-lightning.webp" alt="Lightning effects around a miniature Golden Hall">
 </picture>
 
-## Chinese Garden Design (Selected Examples) / 中式园林设计思想（部分）
+## Chinese Garden Design (Selected Examples) 
 
 The environment brings classical Chinese garden ideas into an interactive learning space, combining framed views, water, corridors, and exhibition halls.
 
